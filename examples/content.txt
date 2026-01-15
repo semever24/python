@@ -1,0 +1,5 @@
+This is Python Language.
+Learning Python is easy to automate the daily works.
+Using Python in DevOps will help to reduce the manual activities.
+Helps to save Cost and Time.
+Keep Learning and Keep Evolving.
